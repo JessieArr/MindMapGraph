@@ -1,0 +1,25 @@
+{
+  "name": "mindmapgraph",
+  "version": "0.0.1",
+  "description": "An application for creating data graphs.",
+  "main": "out/index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JessieArr/MindMapGraph.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JessieArr/MindMapGraph/issues"
+  },
+  "bin": {
+    "mmg": "./out/index.js"
+  },
+  "homepage": "https://github.com/JessieArr/MindMapGraph#readme",
+  "devDependencies": {
+    "@types/node": "^16.3.1"
+  }
+}
